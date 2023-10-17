@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9sgrBVbqoOk6p192qNS1v7O+r3KoPXUhRqUOArNX92g=",
+  "Source": "api-job-pplication",
+  "BasePath": "_content/api-job-pplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
